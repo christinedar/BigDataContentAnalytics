@@ -6,4 +6,4 @@ The data provided is a slightly modified version of the PatchCamelyon (PCam) ben
 The original PCam dataset contains duplicate images due to its probabilistic sampling, however, the version presented here 
 does not contain duplicates.
 
-Convolutional Neural Network (CNN) and a Pretrained Model (ResNet) were applied for solving this problem.
+Convolutional Neural Network (CNN) and a Pretrained Model (ResNet) were used for solving this problem.
